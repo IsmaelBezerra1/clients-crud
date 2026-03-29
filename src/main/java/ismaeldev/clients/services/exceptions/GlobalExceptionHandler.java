@@ -1,4 +1,4 @@
-package services.exceptions;
+package ismaeldev.clients.services.exceptions;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;

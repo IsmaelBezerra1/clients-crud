@@ -1,9 +1,9 @@
-package services;
+package ismaeldev.clients.services;
 
-import dto.ClientDTO;
-import entities.Client;
-import repositories.ClientRepository;
-import services.exceptions.ResourceNotFoundException;
+import ismaeldev.clients.dto.ClientDTO;
+import ismaeldev.clients.entities.Client;
+import ismaeldev.clients.repositories.ClientRepository;
+import ismaeldev.clients.services.exceptions.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

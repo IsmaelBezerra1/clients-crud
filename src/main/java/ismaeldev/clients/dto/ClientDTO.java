@@ -1,6 +1,6 @@
-package dto;
+package ismaeldev.clients.dto;
 
-import entities.Client;
+import ismaeldev.clients.entities.Client;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.PastOrPresent;
 

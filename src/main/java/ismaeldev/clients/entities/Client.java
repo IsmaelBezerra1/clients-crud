@@ -1,4 +1,4 @@
-package entities;
+package ismaeldev.clients.entities;
 
 
 import jakarta.persistence.*;

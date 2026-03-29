@@ -1,4 +1,4 @@
-package services.exceptions;
+package ismaeldev.clients.services.exceptions;
 
 import java.time.Instant;
 

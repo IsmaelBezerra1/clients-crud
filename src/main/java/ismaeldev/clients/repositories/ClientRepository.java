@@ -1,6 +1,6 @@
-package repositories;
+package ismaeldev.clients.repositories;
 
-import entities.Client;
+import ismaeldev.clients.entities.Client;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
